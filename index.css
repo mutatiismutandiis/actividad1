@@ -1,0 +1,20 @@
+#desactivado{
+    color: #636363;
+}
+.container{
+    text-align: center;
+    padding: 2%;
+}
+
+h5, h6, p {
+    padding: 2%;
+}
+
+p{
+    color: #636363;
+}
+
+img{
+    width: 400px;
+    height: 224px;
+}
